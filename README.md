@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![Angular](https://badges.aleen42.com/src/angular.svg)&nbsp;
 ![Post CSS](https://badges.aleen42.com/src/postcss.svg)&nbsp;
 ![npm](https://badges.aleen42.com/src/npm.svg)&nbsp;
@@ -27,24 +27,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://badges.aleen42.com/src/github.svg)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/gauravjoshi1998/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:gauravjoshi1998@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/gauravjoshi1998"><img src="https://img.shields.io/badge/-@gauaravjoshi1998?style=flat&logo=Instagram&logoColor=white&color=ff69b4"/></a> &nbsp;
-
-<!--
-**AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/gauravjoshi1998"><img src="https://badges.aleen42.com/src/instagram.svg"/></a> &nbsp;
