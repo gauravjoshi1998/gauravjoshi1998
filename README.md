@@ -19,7 +19,7 @@
 
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![React](https://badges.aleen42.com/src/react.svg)&nbsp;
-![React Native](https://badges.aleen42.com/src/react.svg)&nbsp;
+![React-Native](https://badges.aleen42.com/src/react.svg)&nbsp;
 ![Angular](https://badges.aleen42.com/src/angular.svg)&nbsp;
 ![Post CSS](https://badges.aleen42.com/src/postcss.svg)&nbsp;
 ![npm](https://badges.aleen42.com/src/npm.svg)&nbsp;
