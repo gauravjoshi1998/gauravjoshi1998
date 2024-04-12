@@ -18,10 +18,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;
+![React](https://badges.aleen42.com/src/react.svg)&nbsp;
+![React Native](https://badges.aleen42.com/src/react.svg)&nbsp;
 ![Angular](https://badges.aleen42.com/src/angular.svg)&nbsp;
 ![Post CSS](https://badges.aleen42.com/src/postcss.svg)&nbsp;
 ![npm](https://badges.aleen42.com/src/npm.svg)&nbsp;
-![React](https://badges.aleen42.com/src/react.svg)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
