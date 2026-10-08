@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I make art, create music and pursue motorcycling as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at gauravjoshi1998@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1aPCmbQqalP5zJr7rvpUxml0_CV5f8Azc/view?usp=sharing) for more details about my work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1aGxTRhDt8lnSS-j545349dHybTavcLuZ/view?usp=drive_link) for more details about my work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
